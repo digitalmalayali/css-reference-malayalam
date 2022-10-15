@@ -2,7 +2,7 @@ title: CSS Reference Malayalam
 subtitle: "CSS-ന് മലയാളത്തിൽ ഒരു സൗജന്യ വിഷ്വൽ ഗൈഡ്"
 description: "ഇംഗ്ലീഷിൽ ലഭ്യമായ CSS Reference-ന്റെ മലയാളപരിഭാഷയാണിത്. ഏറ്റവും പ്രശസ്തമായ പ്രോപ്പർട്ടികളെ ചിത്രങ്ങളിലൂടെയും ആനിമേഷനിലൂടെയുമുള്ള ഉദാഹരണങ്ങൾ വഴി വിശദീകരിച്ചിരിക്കുന്നു."
 share: "CSS Reference Malayalam: ഏറ്റവും പ്രശസ്തമായ CSS പ്രോപ്പർട്ടികൾക്കുള്ള സൗജന്യ വിഷ്വൽ ഗൈഡ്."
-url: https://css.digitalmalyali.in
+url: https://css-reference-malayalam.digitalmalayali.in
 markdown: kramdown
 permalink: pretty
 exclude: ['node_modules']
