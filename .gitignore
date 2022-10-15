@@ -1,6 +1,5 @@
 # Files
 
-.config.local.yml
 .DS_Store
 .jekyll-metadata
 .ruby-version
@@ -15,3 +14,4 @@ _gh_pages
 _site
 images/trash
 node_modules
+.jekyll-cache/
